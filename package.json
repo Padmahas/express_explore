@@ -1,0 +1,19 @@
+{
+  "name": "express_explore",
+  "version": "1.0.0",
+  "description": "Core idea is to find the behavior or .env variables in Jest and supertest.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "jest": "^26.1.0",
+    "supertest": "^4.0.2"
+  }
+}
